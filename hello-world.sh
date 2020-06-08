@@ -5,7 +5,7 @@
 # exit
 
 num=0
-while [[ $num -le 4 ]]
+while [[ $num -le 5 ]]
 do
 	echo "Hello World! - $num"
 	let "num=num+1"
